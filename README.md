@@ -1,1 +1,1 @@
-# Interact with Digital Ocean Services using CLI and/or Terraform
+# DigitalOcean Services using CLI and/or Terraform
